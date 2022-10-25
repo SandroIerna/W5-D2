@@ -1,0 +1,51 @@
+/* --------------------------------------------Ex 1--------------------------------------- */
+div.jumbotron.p-4.p-md-5.rounded div.col-md-6.px-0 h1.display-4.font-italic {
+  /* background-color: red; */
+}
+/* --------------------------------------------Ex 2--------------------------------------- */
+nav span {
+  /* background-color: red; */
+}
+/* --------------------------------------------Ex 3--------------------------------------- */
+div.container
+  div.jumbotron.p-4.p-md-5.rounded
+  div.col-md-6.px-0
+  p.lead.mb-0
+  a.font-weight-bold {
+  /* background-color: red; */
+}
+/* --------------------------------------------Ex 4--------------------------------------- */
+.blog-post:nth-of-type(1) {
+  /* background-color: red; */
+}
+/* --------------------------------------------Ex 5--------------------------------------- */
+hr:nth-of-type(1) {
+  color: red;
+}
+/* --------------------------------------------Ex 6--------------------------------------- */
+nav a:nth-of-type(even) {
+}
+/* --------------------------------------------Ex 7--------------------------------------- */
+aside.col-md-4.blog-sidebar div:nth-of-type(2) li {
+  /* background-color: red; */
+}
+/* --------------------------------------------Ex 8--------------------------------------- */
+.blog-post:nth-of-type(2) p.blog-post-meta a {
+  /* background-color: red; */
+}
+
+.blog-post:nth-of-type(3) ul li:nth-child(2) {
+  /* background-color: red; */
+}
+
+a.float-right.mb-3.mr-3 {
+  /* background-color: red; */
+}
+
+a.btn.btn-outline-secondary.disabled {
+  /* background-color: red; */
+}
+
+footer.blog-footer p.text-center a:nth-child(2) {
+  /* background-color: red; */
+}
